@@ -1,0 +1,61 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TP1 · 1. Persona",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp1.ejercicio01.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP1 · 2. Libro",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp1.ejercicio02.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP1 · 3. Auto",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp1.ejercicio03.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP1 · 4. Cuenta bancaria",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp1.ejercicio04.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP1 · 5. Rectángulo",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp1.ejercicio05.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP2 · 1. Empleado",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp2.ejercicio01.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP2 · 2. Vehículo y auto",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp2.ejercicio02.Main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "TP2 · 3. Animal y perro",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "tp2.ejercicio03.Main",
+      "console": "integratedTerminal"
+    }
+  ]
+}
